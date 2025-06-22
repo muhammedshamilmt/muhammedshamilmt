@@ -3,8 +3,7 @@
 </a>
 
 <h1 align="left">
-  Hi 👋, I'm  
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&width=435&lines=Muhammed+Shamil+MT;MERN+Stack+Developer;Full+Stack+Developer" alt="Typing SVG" /> 
+  Hi 👋, I'm  Muhammed Shamil MT
 </h1>
 
 
