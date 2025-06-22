@@ -2,8 +2,14 @@
   <img src="https://i.pinimg.com/originals/45/67/a8/4567a837b545d22b9dcde81ccd98b70e.gif" alt="MasterHead" height="400px" width="100%" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Muhammed Shamil MT</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="left">
+  Hi 👋, I'm  
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&width=435&lines=Muhammed+Shamil+MT;MERN+Stack+Developer;Full+Stack+Developer" alt="Typing SVG" /> 
+</h1>
+
+
+
+<h3 align="left">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedshamilmt&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedshamilmt" /> </p>
